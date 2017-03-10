@@ -1,9 +1,13 @@
 ﻿{
 <<<<<<< HEAD
+<<<<<<< HEAD
 	"version": 1489180972,
 =======
 	"version": 1488921008,
 >>>>>>> origin/gh-pages
+=======
+	"version": 1488921008,
+>>>>>>> origin/master
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -21,6 +25,7 @@
 		"images/obj_targetreticle-sheet0.png",
 		"images/obj_sanfranroad-sheet0.png",
 <<<<<<< HEAD
+<<<<<<< HEAD
 		"images/obj_sanfranroad-sheet1.png",
 		"images/obj_sanfrancityscape-sheet0.png",
 		"images/obj_sanfrancityscape-sheet1.png",
@@ -36,6 +41,11 @@
 		"images/obj_sanfranbuildings-sheet0.png",
 		"images/obj_sanfranlandingpad-sheet0.png",
 >>>>>>> origin/gh-pages
+=======
+		"images/obj_sanfrancityscape-sheet0.png",
+		"images/obj_sanfranbuildings-sheet0.png",
+		"images/obj_sanfranlandingpad-sheet0.png",
+>>>>>>> origin/master
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
